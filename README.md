@@ -20,4 +20,4 @@ Jan Okkes, *Proto-HAL: Semantic Saturation and Task Drift in AI Agents*.
 
 ## Author
 
-Jan Okkes — Independent scholar, The Netherlands.
+Jan Okkes — The Netherlands.
